@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://minimal-blog.lekoarts.de/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/hello-gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/how-to-check-word-press-user-role-in-an-angular-application</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/how-to-backup-only-original-images-of-your-word-press-site-using-wp-cli</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/tags/angular-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/tags/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/tags/git-hub-pages</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/tags/productivity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/tags/wp-cli</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/tags/word-press</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/tags/wordpress</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://castroalves.dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://castroalves.dev/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://castroalves.dev/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://castroalves.dev/hello-gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://castroalves.dev/how-to-check-word-press-user-role-in-an-angular-application</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://castroalves.dev/how-to-backup-only-original-images-of-your-word-press-site-using-wp-cli</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://castroalves.dev/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://castroalves.dev/tags/angular-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://castroalves.dev/tags/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://castroalves.dev/tags/git-hub-pages</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://castroalves.dev/tags/productivity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://castroalves.dev/tags/wp-cli</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://castroalves.dev/tags/word-press</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://castroalves.dev/tags/wordpress</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
