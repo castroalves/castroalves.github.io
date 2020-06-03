@@ -77,6 +77,26 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-7eed323422cd3a8e25f5.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/hello-gatsby/page-data.json>; rel=preload; as=fetch; crossorigin
+/how-to-check-word-press-user-role-in-an-angular-application
+  Link: </webpack-runtime-2508b2518fb1568c7175.js>; rel=preload; as=script
+  Link: </framework-59a9ef51c55d9b62f7de.js>; rel=preload; as=script
+  Link: </f0e45107-970679e7d1ca4d9f03d4.js>; rel=preload; as=script
+  Link: </app-82f962ae9adda1433b69.js>; rel=preload; as=script
+  Link: </styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-1fd07d02e4b9085910db.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-7eed323422cd3a8e25f5.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/how-to-check-word-press-user-role-in-an-angular-application/page-data.json>; rel=preload; as=fetch; crossorigin
+/how-to-backup-only-original-images-of-your-word-press-site-using-wp-cli
+  Link: </webpack-runtime-2508b2518fb1568c7175.js>; rel=preload; as=script
+  Link: </framework-59a9ef51c55d9b62f7de.js>; rel=preload; as=script
+  Link: </f0e45107-970679e7d1ca4d9f03d4.js>; rel=preload; as=script
+  Link: </app-82f962ae9adda1433b69.js>; rel=preload; as=script
+  Link: </styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-1fd07d02e4b9085910db.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-7eed323422cd3a8e25f5.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/how-to-backup-only-original-images-of-your-word-press-site-using-wp-cli/page-data.json>; rel=preload; as=fetch; crossorigin
 /about
   Link: </webpack-runtime-2508b2518fb1568c7175.js>; rel=preload; as=script
   Link: </framework-59a9ef51c55d9b62f7de.js>; rel=preload; as=script
@@ -87,6 +107,16 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-faf9cbf28e272a362eae.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/angular-js
+  Link: </webpack-runtime-2508b2518fb1568c7175.js>; rel=preload; as=script
+  Link: </framework-59a9ef51c55d9b62f7de.js>; rel=preload; as=script
+  Link: </f0e45107-970679e7d1ca4d9f03d4.js>; rel=preload; as=script
+  Link: </app-82f962ae9adda1433b69.js>; rel=preload; as=script
+  Link: </styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-1fd07d02e4b9085910db.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-2c3c3a9640b638222149.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/angular-js/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/gatsby
   Link: </webpack-runtime-2508b2518fb1568c7175.js>; rel=preload; as=script
   Link: </framework-59a9ef51c55d9b62f7de.js>; rel=preload; as=script
@@ -107,6 +137,46 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-2c3c3a9640b638222149.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/git-hub-pages/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/productivity
+  Link: </webpack-runtime-2508b2518fb1568c7175.js>; rel=preload; as=script
+  Link: </framework-59a9ef51c55d9b62f7de.js>; rel=preload; as=script
+  Link: </f0e45107-970679e7d1ca4d9f03d4.js>; rel=preload; as=script
+  Link: </app-82f962ae9adda1433b69.js>; rel=preload; as=script
+  Link: </styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-1fd07d02e4b9085910db.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-2c3c3a9640b638222149.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/productivity/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/wp-cli
+  Link: </webpack-runtime-2508b2518fb1568c7175.js>; rel=preload; as=script
+  Link: </framework-59a9ef51c55d9b62f7de.js>; rel=preload; as=script
+  Link: </f0e45107-970679e7d1ca4d9f03d4.js>; rel=preload; as=script
+  Link: </app-82f962ae9adda1433b69.js>; rel=preload; as=script
+  Link: </styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-1fd07d02e4b9085910db.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-2c3c3a9640b638222149.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/wp-cli/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/word-press
+  Link: </webpack-runtime-2508b2518fb1568c7175.js>; rel=preload; as=script
+  Link: </framework-59a9ef51c55d9b62f7de.js>; rel=preload; as=script
+  Link: </f0e45107-970679e7d1ca4d9f03d4.js>; rel=preload; as=script
+  Link: </app-82f962ae9adda1433b69.js>; rel=preload; as=script
+  Link: </styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-1fd07d02e4b9085910db.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-2c3c3a9640b638222149.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/word-press/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/wordpress
+  Link: </webpack-runtime-2508b2518fb1568c7175.js>; rel=preload; as=script
+  Link: </framework-59a9ef51c55d9b62f7de.js>; rel=preload; as=script
+  Link: </f0e45107-970679e7d1ca4d9f03d4.js>; rel=preload; as=script
+  Link: </app-82f962ae9adda1433b69.js>; rel=preload; as=script
+  Link: </styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-1fd07d02e4b9085910db.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-2c3c3a9640b638222149.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/wordpress/page-data.json>; rel=preload; as=fetch; crossorigin
 /offline-plugin-app-shell-fallback/
   Link: </webpack-runtime-2508b2518fb1568c7175.js>; rel=preload; as=script
   Link: </framework-59a9ef51c55d9b62f7de.js>; rel=preload; as=script
